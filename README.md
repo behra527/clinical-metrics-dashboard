@@ -7,7 +7,6 @@
 
 A clinical analytics dashboard built with **Streamlit, Pandas, and Plotly** for exploring synthetic patient data, monitoring clinical metrics, analyzing vital trends, and reviewing visit history.
 
----
 
 ## Features
 
@@ -20,7 +19,7 @@ A clinical analytics dashboard built with **Streamlit, Pandas, and Plotly** for 
 * Structured patient visit history
 * Clean and responsive healthcare dashboard UI
 
----
+
 
 ## Tech Stack
 
@@ -31,7 +30,7 @@ A clinical analytics dashboard built with **Streamlit, Pandas, and Plotly** for 
 | Pandas     | Data processing         |
 | Plotly     | Interactive charts      |
 
----
+
 
 ## Project Structure
 
@@ -48,7 +47,7 @@ Clinical-Metrics-Dashboard/
 └── README.md
 ```
 
----
+
 
 ## Getting Started
 
@@ -78,7 +77,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+
 
 ## Data
 
@@ -92,13 +91,13 @@ The data includes:
 * Glucose levels
 * Readmission risk
 
----
+
 
 ## Disclaimer
 
 This dashboard uses synthetic data and is intended for software demonstration and analytics development only. It is not intended for medical diagnosis, treatment, or clinical decision-making.
 
----
+
 
 ## License
 
